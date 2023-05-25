@@ -1,1032 +1,1032 @@
 [
     {
         "code": "AED",
-        "no": "784",
+        "number": 784,
         "name": "Birleşik Arap Emirlikleri dirhemi",
         "country": "Birleşik Arap Emirlikleri"
     },
     {
         "code": "AFN",
-        "no": "971",
+        "number": 971,
         "name": "Afgani",
         "country": "Afganistan"
     },
     {
         "code": "ALL",
-        "no": "008",
+        "number": 8,
         "name": "Arnavut leki",
         "country": "Arnavutluk"
     },
     {
         "code": "AMD",
-        "no": "051",
+        "number": 51,
         "name": "Ermeni dramı",
         "country": "Ermenistan"
     },
     {
         "code": "ANG",
-        "no": "532",
+        "number": 532,
         "name": "Antiller Guldeni",
         "country": "Hollanda Antilleri"
     },
     {
         "code": "AOA",
-        "no": "973",
+        "number": 973,
         "name": "Angola kwanzası",
         "country": "Angola"
     },
     {
         "code": "ARS",
-        "no": "032",
+        "number": 32,
         "name": "Arjantin pesosu",
         "country": "\"Arjantin\""
     },
     {
         "code": "AUD",
-        "no": "036",
+        "number": 36,
         "name": "Avustralya doları",
         "country": "vustralya,  Christmas Adası,  Cocos Adaları,  Heard Adası ve McDonald Adaları,  Kiribati,  Nauru,  Norfolk Adası,  Tuvalu"
     },
     {
         "code": "AWG",
-        "no": "533",
+        "number": 533,
         "name": "Aruba florini",
         "country": "Aruba"
     },
     {
         "code": "AZN",
-        "no": "944",
+        "number": 944,
         "name": "Azerbaycan manatı",
         "country": "Azerbaycan"
     },
     {
         "code": "BAM",
-        "no": "977",
+        "number": 977,
         "name": "Bosna-Hersek değiştirilebilir markı",
         "country": "Bosna-Hersek"
     },
     {
         "code": "BBD",
-        "no": "052",
+        "number": 52,
         "name": "Barbados doları",
         "country": "Barbados"
     },
     {
         "code": "BDT",
-        "no": "050",
+        "number": 50,
         "name": "Bangladeş takası",
         "country": "Bangladeş"
     },
     {
         "code": "BGN",
-        "no": "975",
+        "number": 975,
         "name": "Bulgar levası",
         "country": "Bulgaristan"
     },
     {
         "code": "BHD",
-        "no": "048",
+        "number": 48,
         "name": "Bahreyn dinarı",
         "country": "Bahreyn"
     },
     {
         "code": "BIF",
-        "no": "108",
+        "number": 108,
         "name": "Burundi frangı",
         "country": "Burundi"
     },
     {
         "code": "BMD",
-        "no": "060",
+        "number": 60,
         "name": "Bermuda doları  Bermuda "
     },
     {
         "code": "BND",
-        "no": "096",
+        "number": 96,
         "name": "Brunei doları",
         "country": "Brunei"
     },
     {
         "code": "BOB",
-        "no": "068",
+        "number": 68,
         "name": "Bolivya bolivyanosu",
         "country": "Bolivya"
     },
     {
         "code": "BOV",
-        "no": "984",
+        "number": 984,
         "name": "Bolivya Mvdolu (Para kodu) ",
         "country": "Bolivya"
     },
     {
         "code": "BRL",
-        "no": "986",
+        "number": 986,
         "name": "Brezilya reali",
         "country": "Brezilya"
     },
     {
         "code": "BSD",
-        "no": "044",
+        "number": 44,
         "name": "Bahama doları",
         "country": "Bahamalar"
     },
     {
         "code": "BTN",
-        "no": "064",
+        "number": 64,
         "name": "Ngultrum",
         "country": "Bhutan"
     },
     {
         "code": "BWP",
-        "no": "072",
+        "number": 72,
         "name": "Botsvana pulası",
         "country": "Botsvana"
     },
     {
         "code": "BYR",
-        "no": "974",
+        "number": 974,
         "name": "Belarus rublesi",
         "country": "Belarus"
     },
     {
         "code": "BZD",
-        "no": "084",
+        "number": 84,
         "name": "Belize doları",
         "country": "Belize"
     },
     {
         "code": "CAD",
-        "no": "124",
+        "number": 124,
         "name": "Kanada doları",
         "country": "Kanada"
     },
     {
         "code": "CDF",
-        "no": "976",
+        "number": 976,
         "name": "Kongo frangı",
         "country": "Kongo DC"
     },
     {
         "code": "CHE",
-        "no": "947",
+        "number": 947,
         "name": "WIR Euro (Tamamlayıcı para birimi)",
         "country": "İsviçre"
     },
     {
         "code": "CHF",
-        "no": "756",
+        "number": 756,
         "name": "İsviçre frangı ",
         "country": "İsviçre"
     },
     {
         "code": "CHW",
-        "no": "948",
+        "number": 948,
         "name": "WIR Franc (Tamamlayıcı para birimi) ",
         "country": "İsviçre"
     },
     {
         "code": "CLF",
-        "no": "990",
+        "number": 990,
         "name": "Unidades de formento (Para kodu)",
         "country": "Şili"
     },
     {
         "code": "CLP",
-        "no": "152",
+        "number": 152,
         "name": "Şili Pesosu ",
         "country": "Şili"
     },
     {
         "code": "CNY",
-        "no": "156",
+        "number": 156,
         "name": "Yuan Renminbisi",
         "country": "Çin"
     },
     {
         "code": "COP",
-        "no": "170",
+        "number": 170,
         "name": "Kolombiya pesosu",
         "country": "Kolombiya"
     },
     {
         "code": "COU",
-        "no": "970",
+        "number": 970,
         "name": "Unidad de Valor Real ",
         "country": "Kolombiya"
     },
     {
         "code": "CRC",
-        "no": "188",
+        "number": 188,
         "name": "Kosta Rika colonu",
         "country": "Kosta Rika"
     },
     {
         "code": "CUP",
-        "no": "192",
+        "number": 192,
         "name": "Küba pesosu",
         "country": "Küba"
     },
     {
         "code": "CVE",
-        "no": "132",
+        "number": 132,
         "name": "Yeşil Burun Adaları escudosu",
         "country": "Yeşil Burun Adaları"
     },
     {
         "code": "CYP",
-        "no": "196",
+        "number": 196,
         "name": "Kıbrıs lirası",
         "country": "Kıbrıs Cumhuriyeti"
     },
     {
         "code": "CZK",
-        "no": "203",
+        "number": 203,
         "name": "Çek korunası",
         "country": "Çekya"
     },
     {
         "code": "DJF",
-        "no": "262",
+        "number": 262,
         "name": "Cibuti frangı",
         "country": "Cibuti"
     },
     {
         "code": "DKK",
-        "no": "208",
+        "number": 208,
         "name": "Danimarka kronu",
         "country": "Danimarka,  Faroe Adaları,  Grönland"
     },
     {
         "code": "DOP",
-        "no": "214",
+        "number": 214,
         "name": "Dominik pesosu",
         "country": "Dominik Cumhuriyeti"
     },
     {
         "code": "DZD",
-        "no": "012",
+        "number": 12,
         "name": "Cezayir dinarı",
         "country": "Cezayir"
     },
     {
         "code": "EEK",
-        "no": "233",
+        "number": 233,
         "name": "Estonya kronu",
         "country": "Estonya"
     },
     {
         "code": "EGP",
-        "no": "818",
+        "number": 818,
         "name": "Mısır lirası/ Cuneyh",
         "country": "Mısır"
     },
     {
         "code": "ERN",
-        "no": "232",
+        "number": 232,
         "name": "Eritre nakfası",
         "country": "Eritre"
     },
     {
         "code": "ETB",
-        "no": "230",
+        "number": 230,
         "name": "Etiyopya birri",
         "country": "Etiyopya"
     },
     {
         "code": "EUR",
-        "no": "978",
+        "number": 978,
         "name": "Euro",
         "country": "Avrupa Birliği, bkz. Euro bölgesi"
     },
     {
         "code": "FJD",
-        "no": "242",
+        "number": 242,
         "name": "Fiji doları",
         "country": "Fiji"
     },
     {
         "code": "FKP",
-        "no": "238",
+        "number": 238,
         "name": "Falkland Adaları lirası",
         "country": "Falkland Adaları"
     },
     {
         "code": "GBP",
-        "no": "826",
+        "number": 826,
         "name": "İngiliz sterlini",
         "country": "Birleşik Krallık"
     },
     {
         "code": "GEL",
-        "no": "981",
+        "number": 981,
         "name": "Gürcistan larisi",
         "country": "Gürcistan"
     },
     {
         "code": "GHC",
-        "no": "288",
+        "number": 288,
         "name": "Gana cedisi",
         "country": "Gana"
     },
     {
         "code": "GIP",
-        "no": "292",
+        "number": 292,
         "name": "Cebelitarık lirası",
         "country": "Cebelitarık"
     },
     {
         "code": "GMD",
-        "no": "270",
+        "number": 270,
         "name": "Gambiya dalasisi",
         "country": "Gambiya"
     },
     {
         "code": "GNF",
-        "no": "324",
+        "number": 324,
         "name": "Gine frangı",
         "country": "Gine"
     },
     {
         "code": "GTQ",
-        "no": "320",
+        "number": 320,
         "name": "Guatemala kuetzalı",
         "country": "Guatemala"
     },
     {
         "code": "GYD",
-        "no": "328",
+        "number": 328,
         "name": "Guyana doları",
         "country": "Guyana"
     },
     {
         "code": "HKD",
-        "no": "344",
+        "number": 344,
         "name": "Hong Kong doları",
         "country": "Hong Kong"
     },
     {
         "code": "HNL",
-        "no": "340",
+        "number": 340,
         "name": "Honduras lempirası",
         "country": "Honduras"
     },
     {
         "code": "HTG",
-        "no": "332",
+        "number": 332,
         "name": "Haiti gourde",
         "country": "Haiti"
     },
     {
         "code": "HUF",
-        "no": "348",
+        "number": 348,
         "name": "Macar forinti",
         "country": "Macaristan"
     },
     {
         "code": "IDR",
-        "no": "360",
+        "number": 360,
         "name": "Endonezya rupiahı",
         "country": "Endonezya"
     },
     {
         "code": "ILS",
-        "no": "376",
+        "number": 376,
         "name": "Yeni İsrail şekeli",
         "country": "İsrail"
     },
     {
         "code": "INR",
-        "no": "356",
+        "number": 356,
         "name": "Hindistan rupisi",
         "country": "Hindistan"
     },
     {
         "code": "IQD",
-        "no": "368",
+        "number": 368,
         "name": "Irak dinarı",
         "country": "Irak"
     },
     {
         "code": "IRR",
-        "no": "364",
+        "number": 364,
         "name": "İran riyali",
         "country": "İran"
     },
     {
         "code": "ISK",
-        "no": "352",
+        "number": 352,
         "name": "İzlanda kronası",
         "country": "İzlanda"
     },
     {
         "code": "JMD",
-        "no": "388",
+        "number": 388,
         "name": "Jamaika doları",
         "country": "Jamaika"
     },
     {
         "code": "JOD",
-        "no": "400",
+        "number": 400,
         "name": "Ürdün dinarı",
         "country": "Ürdün"
     },
     {
         "code": "JPY",
-        "no": "392",
+        "number": 392,
         "name": "Japon yeni",
         "country": "Japonya"
     },
     {
         "code": "KES",
-        "no": "404",
+        "number": 404,
         "name": "Kenya şilini",
         "country": "Kenya"
     },
     {
         "code": "KGS",
-        "no": "417",
+        "number": 417,
         "name": "Kırgızistan somu",
         "country": "Kırgızistan"
     },
     {
         "code": "KHR",
-        "no": "116",
+        "number": 116,
         "name": "Kamboçya rieli",
         "country": "Kamboçya"
     },
     {
         "code": "KMF",
-        "no": "174",
+        "number": 174,
         "name": "Komoro frangı",
         "country": "Komorlar"
     },
     {
         "code": "KPW",
-        "no": "408",
+        "number": 408,
         "name": "Kuzey Kore wonu",
         "country": "Kuzey Kore"
     },
     {
         "code": "KRW",
-        "no": "410",
+        "number": 410,
         "name": "Güney Kore wonu",
         "country": "Güney Kore"
     },
     {
         "code": "KWD",
-        "no": "414",
+        "number": 414,
         "name": "Kuveyt dinarı",
         "country": "Kuveyt"
     },
     {
         "code": "KYD",
-        "no": "136",
+        "number": 136,
         "name": "Cayman Adaları doları",
         "country": "Cayman Adaları"
     },
     {
         "code": "KZT",
-        "no": "398",
+        "number": 398,
         "name": "Kazak tengesi",
         "country": "Kazakistan"
     },
     {
         "code": "LAK",
-        "no": "418",
+        "number": 418,
         "name": "Laos kipi",
         "country": "Laos"
     },
     {
         "code": "LBP",
-        "no": "422",
+        "number": 422,
         "name": "Lübnan lirası",
         "country": "Lübnan"
     },
     {
         "code": "LKR",
-        "no": "144",
+        "number": 144,
         "name": "Sri Lanka rupisi",
         "country": "Sri Lanka"
     },
     {
         "code": "LRD",
-        "no": "430",
+        "number": 430,
         "name": "Liberya doları",
         "country": "Liberya"
     },
     {
         "code": "LSL",
-        "no": "426",
+        "number": 426,
         "name": "Lesotho lotisi",
         "country": "Lesotho"
     },
     {
         "code": "LTL",
-        "no": "440",
+        "number": 440,
         "name": "Litvanya litası",
         "country": "Litvanya"
     },
     {
         "code": "LVL",
-        "no": "428",
+        "number": 428,
         "name": "Letonya latsı",
         "country": "Letonya"
     },
     {
         "code": "LYD",
-        "no": "434",
+        "number": 434,
         "name": "Libya dinarı",
         "country": "Libya"
     },
     {
         "code": "MAD",
-        "no": "504",
+        "number": 504,
         "name": "Fas dirhemi",
         "country": "Fas,  Batı Sahra"
     },
     {
         "code": "MDL",
-        "no": "498",
+        "number": 498,
         "name": "Moldova leyi",
         "country": "Moldova"
     },
     {
         "code": "MGA",
-        "no": "969",
+        "number": 969,
         "name": "Madagaskar ariarisi",
         "country": "Madagaskar"
     },
     {
         "code": "MKD",
-        "no": "807",
+        "number": 807,
         "name": "Makedon dinarı",
         "country": "Kuzey Makedonya"
     },
     {
         "code": "MMK",
-        "no": "104",
+        "number": 104,
         "name": "Burma kyatı",
         "country": "Burma"
     },
     {
         "code": "MNT",
-        "no": "496",
+        "number": 496,
         "name": "Moğol tögrögü",
         "country": "Moğolistan"
     },
     {
         "code": "MOP",
-        "no": "446",
+        "number": 446,
         "name": "Makao patakası",
         "country": "Makao"
     },
     {
         "code": "MRO",
-        "no": "478",
+        "number": 478,
         "name": "Moritanya ugiyası",
         "country": "Moritanya"
     },
     {
         "code": "MTL",
-        "no": "470",
+        "number": 470,
         "name": "Malta lirası",
         "country": "Malta"
     },
     {
         "code": "MUR",
-        "no": "480",
+        "number": 480,
         "name": "Mauritius rupisi",
         "country": "Mauritius"
     },
     {
         "code": "MVR",
-        "no": "462",
+        "number": 462,
         "name": "Maldiv rufiyaası",
         "country": "Maldivler"
     },
     {
         "code": "MWK",
-        "no": "454",
+        "number": 454,
         "name": "Malavi kvaçası",
         "country": "Malavi"
     },
     {
         "code": "MXN",
-        "no": "484",
+        "number": 484,
         "name": "Meksika pesosu",
         "country": "Meksika"
     },
     {
         "code": "MXV",
-        "no": "979",
+        "number": 979,
         "name": "Mexican Unidad de Inversion (UDI) (Para kodu) ",
         "country": "Meksika"
     },
     {
         "code": "MYR",
-        "no": "458",
+        "number": 458,
         "name": "Malezya ringgiti",
         "country": "Malezya"
     },
     {
         "code": "MZN",
-        "no": "943",
+        "number": 943,
         "name": "Mozambik metikali",
         "country": "Mozambik"
     },
     {
         "code": "NAD",
-        "no": "516",
+        "number": 516,
         "name": "Namibya doları",
         "country": "Namibya"
     },
     {
         "code": "NGN",
-        "no": "566",
+        "number": 566,
         "name": "Nijerya nairası",
         "country": "\" Nijerya\""
     },
     {
         "code": "NIO",
-        "no": "558",
+        "number": 558,
         "name": "Nikaragua kordobası",
         "country": "Nikaragua"
     },
     {
         "code": "NOK",
-        "no": "578",
+        "number": 578,
         "name": "Norveç kronu",
         "country": "Norveç"
     },
     {
         "code": "NPR",
-        "no": "524",
+        "number": 524,
         "name": "Nepal rupisi",
         "country": "Nepal"
     },
     {
         "code": "NZD",
-        "no": "554",
+        "number": 554,
         "name": "Yeni Zelanda doları",
         "country": "Cook Adaları,  Yeni Zelanda,  Niue,  Pitcairn Adaları,  Tokelau"
     },
     {
         "code": "OMR",
-        "no": "512",
+        "number": 512,
         "name": "Umman riyali",
         "country": "Umman"
     },
     {
         "code": "PAB",
-        "no": "590",
+        "number": 590,
         "name": "Panama balboası",
         "country": "Panama"
     },
     {
         "code": "PEN",
-        "no": "604",
+        "number": 604,
         "name": "Peru nuevo solü",
         "country": "Peru"
     },
     {
         "code": "PGK",
-        "no": "598",
+        "number": 598,
         "name": "Papua Yeni Gine kinası",
         "country": "Papua Yeni Gine"
     },
     {
         "code": "PHP",
-        "no": "608",
+        "number": 608,
         "name": "Filipinler pesosu",
         "country": "Filipinler"
     },
     {
         "code": "PKR",
-        "no": "586",
+        "number": 586,
         "name": "Pakistan rupisi",
         "country": "Pakistan"
     },
     {
         "code": "PLN",
-        "no": "985",
+        "number": 985,
         "name": "Polonya zlotisi",
         "country": "Polonya"
     },
     {
         "code": "PYG",
-        "no": "600",
+        "number": 600,
         "name": "Paraguay guaranisi",
         "country": "Paraguay"
     },
     {
         "code": "QAR",
-        "no": "634",
+        "number": 634,
         "name": "Katar riyali",
         "country": "Katar"
     },
     {
         "code": "ROL",
-        "no": "642",
+        "number": 642,
         "name": "Eski Romanya Leyi",
         "country": "Romanya"
     },
     {
         "code": "RON",
-        "no": "946",
+        "number": 946,
         "name": "Rumen leyi",
         "country": "Romanya"
     },
     {
         "code": "RSD",
-        "no": "941",
+        "number": 941,
         "name": "Sırp dinarı",
         "country": "Sırbistan"
     },
     {
         "code": "RUB",
-        "no": "643",
+        "number": 643,
         "name": "Rus rublesi",
         "country": "Rusya,  Abhazya,  Kuzey Osetya"
     },
     {
         "code": "RWF",
-        "no": "646",
+        "number": 646,
         "name": "Ruanda frangı",
         "country": "Ruanda"
     },
     {
         "code": "SAR",
-        "no": "682",
+        "number": 682,
         "name": "Suudi Arabistan riyali",
         "country": "Suudi Arabistan"
     },
     {
         "code": "SBD",
-        "no": "090",
+        "number": 90,
         "name": "Solomon Adaları doları",
         "country": "Solomon Adaları"
     },
     {
         "code": "SCR",
-        "no": "690",
+        "number": 690,
         "name": "Seyşeller rupisi",
         "country": "Seyşeller"
     },
     {
         "code": "SDD",
-        "no": "736",
+        "number": 736,
         "name": "Sudan sterlini",
         "country": "Sudan"
     },
     {
         "code": "SEK",
-        "no": "752",
+        "number": 752,
         "name": "İsveç kronu",
         "country": "İsveç"
     },
     {
         "code": "SGD",
-        "no": "702",
+        "number": 702,
         "name": "Singapur doları",
         "country": "Singapur"
     },
     {
         "code": "SHP",
-        "no": "654",
+        "number": 654,
         "name": "Saint Helena liraso",
         "country": "Saint Helena"
     },
     {
         "code": "SIT",
-        "no": "705",
+        "number": 705,
         "name": "Slovenya toları",
         "country": "Slovenya"
     },
     {
         "code": "SKK",
-        "no": "703",
+        "number": 703,
         "name": "Slovak korunası",
         "country": "Slovakya"
     },
     {
         "code": "SLL",
-        "no": "694",
+        "number": 694,
         "name": "Sierra Leone leonesi",
         "country": "Sierra Leone"
     },
     {
         "code": "SOS",
-        "no": "706",
+        "number": 706,
         "name": "Somali şilini",
         "country": "Somali"
     },
     {
         "code": "SRD",
-        "no": "968",
+        "number": 968,
         "name": "Surinam doları",
         "country": "Surinam"
     },
     {
         "code": "STD",
-        "no": "678",
+        "number": 678,
         "name": "São Tomé ve Príncipe dobrası",
         "country": "São Tomé ve Príncipe"
     },
     {
         "code": "SYP",
-        "no": "760",
+        "number": 760,
         "name": "Suriye lirası",
         "country": "Suriye"
     },
     {
         "code": "SZL",
-        "no": "748",
+        "number": 748,
         "name": "Esvatini lilangenisi",
         "country": "Esvatini"
     },
     {
         "code": "THB",
-        "no": "764",
+        "number": 764,
         "name": "Tayland bahtı",
         "country": "Tayland"
     },
     {
         "code": "TJS",
-        "no": "972",
+        "number": 972,
         "name": "Tacikistan somonisi",
         "country": "Tacikistan"
     },
     {
         "code": "TMM",
-        "no": "795",
+        "number": 795,
         "name": "Türkmenistan manatı",
         "country": "Türkmenistan"
     },
     {
         "code": "TND",
-        "no": "788",
+        "number": 788,
         "name": "Tunus dinarı",
         "country": "Tunus"
     },
     {
         "code": "TOP",
-        "no": "776",
+        "number": 776,
         "name": "Tonga a'angası",
         "country": "Tonga"
     },
     {
         "code": "TRY",
-        "no": "949",
+        "number": 949,
         "name": "Türk lirası",
         "country": "Türkiye ve  Kuzey Kıbrıs"
     },
     {
         "code": "TTD",
-        "no": "780",
+        "number": 780,
         "name": "Trinidad ve Tobago doları",
         "country": "Trinidad ve Tobago"
     },
     {
         "code": "TWD",
-        "no": "901",
+        "number": 901,
         "name": "Yeni Tayvan doları",
         "country": "Tayvan ve  Çin kontrolü altındaki diğer adalar"
     },
     {
         "code": "TZS",
-        "no": "834",
+        "number": 834,
         "name": "Tanzanya şilini",
         "country": "Tanzanya"
     },
     {
         "code": "UAH",
-        "no": "980",
+        "number": 980,
         "name": "Ukrayna grivnası",
         "country": "Ukrayna"
     },
     {
         "code": "UGX",
-        "no": "800",
+        "number": 800,
         "name": "Uganda şilini",
         "country": "Uganda"
     },
     {
         "code": "USD",
-        "no": "840",
+        "number": 840,
         "name": "Amerikan doları",
         "country": "ABD,  Amerikan Samoası,  Britanya Hint Okyanusu Toprakları,  Ekvador,  El Salvador,  Guam,  Haiti,  Marshall Adaları,  Mikronezya Federal Devletleri,  Kuzey Mariana Adaları,  Palau,  Panama,  Doğu Timor,  Turks ve Caicos Adaları,  ABD Virjin Adaları"
     },
     {
         "code": "UYU",
-        "no": "858",
+        "number": 858,
         "name": "Uruguay pesosu",
         "country": "Uruguay"
     },
     {
         "code": "UZS",
-        "no": "860",
+        "number": 860,
         "name": "Özbekistan somu",
         "country": "Özbekistan"
     },
     {
         "code": "VEB",
-        "no": "862",
+        "number": 862,
         "name": "Venezuela bolivarı",
         "country": "Venezuela"
     },
     {
         "code": "VND",
-        "no": "704",
+        "number": 704,
         "name": "Vietnam dongu",
         "country": "Vietnam"
     },
     {
         "code": "VUV",
-        "no": "548",
+        "number": 548,
         "name": "Vanuatu vatusu",
         "country": "Vanuatu"
     },
     {
         "code": "WST",
-        "no": "882",
+        "number": 882,
         "name": "Samoa talası",
         "country": "Samoa"
     },
     {
         "code": "XAF",
-        "no": "950",
+        "number": 950,
         "name": "CFA Franc BEAC",
         "country": "Kamerun,  Orta Afrika Cumhuriyeti,  Kongo Cumhuriyeti,  Çad,  Ekvador,  Gabon"
     },
     {
         "code": "XAG",
-        "no": "961",
+        "number": 961,
         "name": "Gümüş (1 Troy ons) (=31.1034768 gram)",
         "country": "XAU,959,.,Altın (1 Troy ons) (=31.1034768 gram),"
     },
     {
         "code": "XCD",
-        "no": "951",
+        "number": 951,
         "name": "Doğu Karayip doları",
         "country": "Anguilla,  Antigua ve Barbuda,  Dominika,  Grenada,  Montserrat,  Saint Kitts ve Nevis,  Saint Lucia,  Saint Vincent ve Grenadinler"
     },
     {
         "code": "XDR",
-        "no": "960",
+        "number": 960,
         "name": "Özel çekme hakları",
         "country": "Uluslararası Para Fonu"
     },
     {
         "code": "XFO",
-        "no": "Nil",
+        "number": null,
         "name": "Altın Frank (özel ödeme para birimi)",
         "country": "Uluslararası Ödemeler Bankası"
     },
     {
         "code": "XFU",
-        "no": "Nil",
+        "number": null,
         "name": "UIC Frank (özel ödeme para birimi)",
         "country": "Uluslararası Demiryolları Birliği"
     },
     {
         "code": "XOF",
-        "no": "952",
+        "number": 952,
         "name": "CFA Franc BCEAO",
         "country": "Benin,  Burkina Faso,  Fildişi Sahili,  Gine-Bissau,  Mali,  Nijer,  Senegal,  Togo"
     },
     {
         "code": "XPD",
-        "no": "964",
+        "number": 964,
         "name": "Palladium (1 3 gram Truva)",
         "country": ""
     },
     {
         "code": "XPF",
-        "no": "953",
+        "number": 953,
         "name": "CFP franc",
         "country": "Fransız Polinezyası,  Yeni Kaledonya,  Wallis ve Futuna"
     },
     {
         "code": "YER",
-        "no": "886",
+        "number": 886,
         "name": "Yemen riyali",
         "country": "Yemen"
     },
     {
         "code": "ZAR",
-        "no": "710",
+        "number": 710,
         "name": "Güney Afrika randı",
         "country": "Güney Afrika"
     },
     {
         "code": "ZMK",
-        "no": "894",
+        "number": 894,
         "name": "Zambiya kwachası",
         "country": "Zambiya"
     },
     {
         "code": "ZWD",
-        "no": "716",
+        "number": 716,
         "name": "Zimbabve doları",
         "country": "Zimbabve"
     }

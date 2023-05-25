@@ -10,7 +10,7 @@ fs.createReadStream('ISO_4217.csv')
       const country = result['Para birimini kullanan ülkeler'];
       return {
         code: result['Kod'],
-        no: result['No'],
+        number: parseInt(result['No']),
         name: result['Para birimi'],
         country: country?.toString().trim(),
       };
